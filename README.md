@@ -22,10 +22,11 @@ Token Manager is a Discord bot designed to handle and manage tokens within your 
    git clone https://github.com/your-username/token-manager-bot.git
    cd token-manager-bot
 2. **Make .env file And But This On it**
-`
-TOKEN=your-bot-token
-CLIENT_ID=your-bot-id
-OWNERS_ID=your-id `
+   ```bash
+   TOKEN=your-bot-token
+   CLIENT_ID=your-bot-id 
+   OWNERS_ID=your-id
+   
 
 
 ## Runing the Bot
