@@ -28,7 +28,7 @@ CLIENT_ID=your-bot-id
 OWNERS_ID=your-id `
 
 
-##Runing the Bot
+## Runing the Bot
 
 
 1. `node src/index.js`
