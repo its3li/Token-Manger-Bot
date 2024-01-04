@@ -1,6 +1,6 @@
 # Token Manager Discord Bot
 
-[![Discord](https://img.shields.io/discord/your-discord-server-id)](https://discord.gg/your-invite-link)
+[![Discord](https://img.shields.io/discord/your-discord-server-id)]([https://discord.gg/your-invite-link](https://discord.gg/CHjtGrcR2R))
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
